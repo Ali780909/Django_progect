@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e6eb510-2c24-4173-95e1-8193cd53aaf3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="9e3a7701-517d-4e01-9768-c58853cc8b2f" />
+  <component name="ProjectId" id="1lxQNFxiBMnHfWskz7vzDPrWDBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boardsfrontend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Django Server.djangoprojects">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="djangoprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="djangoprojects" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dicussion_board.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e6eb510-2c24-4173-95e1-8193cd53aaf3" name="Default Changelist" comment="" />
+      <created>1608536220842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608536220842</updated>
+      <workItem from="1608536222122" duration="3562000" />
+      <workItem from="1608729111562" duration="241000" />
+      <workItem from="1608731081851" duration="8314000" />
+      <workItem from="1608795360494" duration="2558000" />
+      <workItem from="1608812353341" duration="5147000" />
+      <workItem from="1608831260937" duration="7225000" />
+      <workItem from="1608899221093" duration="8726000" />
+      <workItem from="1608966151492" duration="5614000" />
+      <workItem from="1608974101045" duration="956000" />
+      <workItem from="1608985001026" duration="14537000" />
+      <workItem from="1609012918380" duration="993000" />
+      <workItem from="1609052938837" duration="5712000" />
+      <workItem from="1609070678946" duration="4881000" />
+      <workItem from="1609139885162" duration="3603000" />
+      <workItem from="1609158798312" duration="2334000" />
+      <workItem from="1609233549118" duration="1036000" />
+      <workItem from="1609245315155" duration="3929000" />
+      <workItem from="1609311643545" duration="5350000" />
+      <workItem from="1609330836328" duration="10948000" />
+      <workItem from="1609397667499" duration="6344000" />
+      <workItem from="1609417672206" duration="4408000" />
+      <workItem from="1609494347425" duration="1657000" />
+      <workItem from="1609503756551" duration="6077000" />
+      <workItem from="1609527453693" duration="3494000" />
+      <workItem from="1609572483816" duration="2852000" />
+      <workItem from="1609590605144" duration="4013000" />
+      <workItem from="1609603191788" duration="2365000" />
+      <workItem from="1609677506908" duration="2241000" />
+      <workItem from="1609745885514" duration="2292000" />
+      <workItem from="1609830659851" duration="1687000" />
+      <workItem from="1609859938424" duration="832000" />
+      <workItem from="1609872812306" duration="2007000" />
+      <workItem from="1609935800977" duration="2709000" />
+      <workItem from="1610002224731" duration="2580000" />
+      <workItem from="1610264523554" duration="172000" />
+      <workItem from="1610479698107" duration="1210000" />
+      <workItem from="1610584358720" duration="3738000" />
+      <workItem from="1610651622497" duration="4236000" />
+      <workItem from="1610670417608" duration="3796000" />
+      <workItem from="1610756742942" duration="7884000" />
+      <workItem from="1610822748848" duration="1330000" />
+      <workItem from="1610832310284" duration="1085000" />
+      <workItem from="1610840217014" duration="1630000" />
+      <workItem from="1610841993903" duration="1662000" />
+      <workItem from="1610843851868" duration="1694000" />
+      <workItem from="1610845758533" duration="1008000" />
+      <workItem from="1610847209877" duration="306000" />
+      <workItem from="1610856004818" duration="1466000" />
+      <workItem from="1610911297423" duration="4912000" />
+      <workItem from="1610927113827" duration="4464000" />
+      <workItem from="1610995489821" duration="5551000" />
+      <workItem from="1611003266225" duration="404000" />
+      <workItem from="1611015461076" duration="879000" />
+      <workItem from="1611017077105" duration="21000" />
+      <workItem from="1611017352868" duration="464000" />
+      <workItem from="1611030428827" duration="2775000" />
+      <workItem from="1611035320807" duration="1561000" />
+      <workItem from="1611101731465" duration="575000" />
+      <workItem from="1611167789408" duration="2723000" />
+      <workItem from="1611178124684" duration="197000" />
+      <workItem from="1611180820107" duration="93000" />
+      <workItem from="1611186533114" duration="1451000" />
+      <workItem from="1611364075149" duration="2089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boards/url.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
